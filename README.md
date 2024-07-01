@@ -1,2 +1,2 @@
 # robot_attack
-Attack of the Robots game made with Pygame!
+Attack of the Robots modules for the entier game build
